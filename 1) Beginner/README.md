@@ -1,6 +1,6 @@
----
+
 title: 🚀 Python Beginner Projects - From Basics to Brilliance
----
+
 
 Welcome to your journey into Python development! This collection of
 projects is designed to build your foundational skills in programming,
