@@ -1,3 +1,9 @@
+"""
+    NOTE: hangman_art.py and hangman_words.py must be in the 
+          same location as the hangman.py for this code to work. 
+
+"""
+
 import random
 
 from hangman_words import word_list
