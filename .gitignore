@@ -1,6 +1,7 @@
 *.venv
+*.env
 /*.jpg
 /*.jpeg
 /*.png
 /*.gif
-*.env
+/*.csv
