@@ -4,7 +4,7 @@
 ## **1) STEP 1: Create the User Interface (UI) with Tkinter:-**
 
    Use the images in the image folder, to create the following user interface(a) Step 1.jpg). The ❌ and ✅ are buttons. 
-   You can add images to buttons like this:
+   You can add images to buttons like this: <br />
     my_image = PhotoImage(file="path/to/image_file.png") <br />
     button = Button(image=my_image, highlightthickness=0)
 
